@@ -158,5 +158,5 @@ areaBtn.addEventListener('click',function(e){
 
 
 ## RESULT:
-Thus a website is designed for the calculation of volume of cylinder using Javascript and is hosted in the URL http://kavya.student.saveetha.in:8000/volumeofcylinder/.HTML code is validated.
-Thus a website is designed for the calculation of area of circle using Javascript and is hosted in the URL http://kavya.student.saveetha.in:8000/areaofcircle/.HTML code is validated.
+Thus a website is designed for the calculation of volume of cylinder using Javascript and is hosted in the URL http://kavya.student.saveetha.in:8000/volumeofcylinder/. HTML code is validated.
+Thus a website is designed for the calculation of area of circle using Javascript and is hosted in the URL http://kavya.student.saveetha.in:8000/areaofcircle/. HTML code is validated.
